@@ -1,0 +1,2 @@
+# Projects
+This project uses a csv file with accelerometer from a phone to find the amount of steps taken during the run. It parses the data into lists then finds spikes in the values to detect when a step is taken. Writen in Python
