@@ -1,0 +1,16 @@
+File Structure:
+assets - folder containing graphics and other assets for pybullet to run
+data - folder where waypoints and cost to goal are stored for a given environment
+collisions_utils.py - script to get the collision function
+main.py - script to set up experiments and collect data by running PRM algorithm and getting the waypoints using Dijkstra's algorithm
+
+To Run an experiment you must set up the obstacles and specify start and goal configurations and the file path of your data
+
+
+Checkpoint 2:
+Model.py contains model setup
+main.py contains PRM used for data and RRT* algorithm
+
+Checkpoint 3:
+Same as above, to run RRT* comment line 253 in main.py and uncomment line 254.
+To run Learning based RRT* comment line 254 in main.py and uncomment line 253
