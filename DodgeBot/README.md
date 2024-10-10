@@ -6,6 +6,12 @@
 
 Punch-dodging robot project started as a senior design group project for ECE 47700 group 5 at Purdue University.
 
+###DEMO VIDEOS
+
+https://www.youtube.com/shorts/NQUYcLnN8nE
+https://www.youtube.com/shorts/Dirlxg9N7j0
+https://www.youtube.com/watch?v=Q3NQfAVkUB4&ab_channel=blankname
+
 ### Project Website
 
 Learn about PunchBot on our Project Website!
