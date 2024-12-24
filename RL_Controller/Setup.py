@@ -82,8 +82,8 @@ GoalX = 48
 GoalY = 28
 GoalLocation = [GoalX, GoalY]
 # Path to your TurtleBot URDF file
-# turtlebot_path = "turtlebot.urdf"
-# turtlebot = p.loadURDF(turtlebot_path, [2.5, 2.5, 0.5])
+turtlebot_path = "turtlebot3_description/urdf/turtlebot.urdf"
+turtlebot = p.loadURDF(turtlebot_path, [2.5, 2.5, 0.5])
 block1 = p.loadURDF("block.urdf", [27, 5, 2.5])
 block2 = p.loadURDF("block.urdf", [14, 12, 2.5])
 block3 = p.loadURDF("block.urdf", [40, 20, 2.5])

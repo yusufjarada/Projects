@@ -2,4 +2,6 @@ Install requirements by running :
 
 pip install -r requirements.txt
 
+Change file path in URDF to the correct path of the STL file on your computer
+
 Then run Setup.py
