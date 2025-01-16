@@ -14,10 +14,6 @@ https://www.youtube.com/shorts/Dirlxg9N7j0
 
 https://www.youtube.com/watch?v=Q3NQfAVkUB4&ab_channel=blankname
 
-### Project Website
-
-Learn about PunchBot on our Project Website!
-Https://engineering.purdue.edu/477grp5/
 
 ### Dependencies
 
